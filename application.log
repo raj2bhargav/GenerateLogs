@@ -1,0 +1,6 @@
+2020-09-25 16:50:14,630  INFO [main] LogTest:25 - Launch Chrome Browser
+2020-12-22 16:29:01,317  INFO [main] LogTest:25 - *****************Launch Chrome Browser*********************
+2020-12-22 16:29:06,470  INFO [main] LogTest:34 - *****************Opening Google*********************
+2020-12-22 16:29:06,519  INFO [main] LogTest:42 - *****************Verify Page Title*********************
+2020-12-22 16:29:14,369  INFO [main] LogTest:25 - *****************Launch Chrome Browser*********************
+2020-12-22 16:29:19,264  INFO [main] LogTest:34 - *****************Opening Google*********************
